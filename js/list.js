@@ -168,7 +168,12 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [
+			"vids": [		{
+					"user": "reoode",
+					"link": "https://youtu.be/Vc50_QktHWk,
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
