@@ -1,19 +1,6 @@
 const d = {
 	"list": [
-		/*=================================================================================*/
-		{
-			"vids": [
-				
-			],
-			"name": "Shitty Gamma",
-			"author": "Shitty Forum [RedCraft]",
-			"more": "none",
-			"id": 56774932,
-			"pass": "853822",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=cQ1fLYtsO_w",
-			"key": 0
-		},
+		
 		/*=================================================================================*/
 		{
 			"vids": [
