@@ -2000,7 +2000,12 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [
+			"vids": [				{	
+					"user": "Acropolisboy",
+					"link": "https://youtu.be/BwZY9GqGgTo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 				{	
 					"user": "By Player",
 					"link": "https://youtu.be/g4t4Jueura0",
